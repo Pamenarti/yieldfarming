@@ -39,14 +39,12 @@ To run the application, use the following command:
 Visit `http://localhost:3000` in your web browser to access the application.
 
 
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## 📞 Contact
 
 Paro - [@Pamenarti](https://twitter.com/pamenarti)
 
 Email - [pamenarti@gmail.com](pamenarti@gmail.com)
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Contact
-For any inquiries or feedback, please reach out to us at [pamenarti@gmail.com](mailto:pamenarti@gmail.com).
 
 Thank you for your interest in the Yield Farming Project!
