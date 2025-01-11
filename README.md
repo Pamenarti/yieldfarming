@@ -38,19 +38,11 @@ To run the application, use the following command:
 
 Visit `http://localhost:3000` in your web browser to access the application.
 
-## Contributing
-We welcome contributions from the community! If you would like to contribute, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature/YourFeature`).
-3. Make your changes and commit them (`git commit -m 'Add some feature'`).
-4. Push to the branch (`git push origin feature/YourFeature`).
-5. Open a pull request.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
-For any inquiries or feedback, please reach out to us at [your-email@example.com](mailto:your-email@example.com).
+For any inquiries or feedback, please reach out to us at [pamenarti@gmail.com](mailto:pamenarti@gmail.com).
 
 Thank you for your interest in the Yield Farming Project!
