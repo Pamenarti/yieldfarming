@@ -39,7 +39,11 @@ To run the application, use the following command:
 Visit `http://localhost:3000` in your web browser to access the application.
 
 
-## License
+## 📞 Contact
+
+Paro - [@Pamenarti](https://twitter.com/pamenarti)
+
+Email - [pamenarti@gmail.com](pamenarti@gmail.com)
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
