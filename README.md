@@ -34,7 +34,7 @@ To get started with the Yield Farming Project, follow these steps:
 
 ## Usage
 To run the application, use the following command:
-```
+
 
 Visit `http://localhost:3000` in your web browser to access the application.
 
